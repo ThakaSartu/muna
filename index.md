@@ -7,6 +7,19 @@
 
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
+
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/SARTU_AND_NORMANI_ARE_THE_SAME_PERSON.jpg">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/MetalMuna.jpg">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/architectFutureATL_IN_LA.jpg">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/me_and_munas_original_design.jpg">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/MetalMuna.jpg">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/SARTU_AND_NORMANI_ARE_THE_SAME_PERSON.jpg">
+<iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/5IuThMnaayjZACJ1QhVDf0?utm_source=generator&theme=0" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/THAKA_RASHARD_IN_TSHIRT_LADY_SUGGESTION_FOR_THE_LOVE_BOMRS_SELASSIE_HOWSE_MUNA_AND_RASHARD_DESIGN_ATLIEN.jpg">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/postUpRolLLUPONMENORMANi.jpg">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/spacefamilyCoralSartuMunaerikaLifeChallenges.jpg">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/SQUISHYPUSSRAPED_HAILEY_T.jpg">
+<IMG src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/CHALK_LOVER_AWR.jpg">
 <IMG src="https://i.discogs.com/hYY9APOi1anJK21D3N7CsLqzfD-KkM1BYWyrPi1HQZc/rs:fit/g:sm/q:90/h:502/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDA5/NjQtMTU0OTA5Mjg4/Mi01MjYxLmpwZWc.jpeg">
 <IMG src="https://res.cloudinary.com/practicaldev/image/fetch/s--JYVzMU6E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p8jyvxodxkows5fgsnp4.png">
 
