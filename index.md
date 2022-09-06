@@ -20,7 +20,7 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/dispersaryDeal4ORiGiNAL_ATLiENGEAR.jpg">
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/architectFutureATL_IN_LA.jpg">
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/me_and_munas_original_design.jpg">
-
+<IMG src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/121239511_1748103682017948_4552219737373210427_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=f3AOdIVp1zcAX_X4HOW&_nc_ht=scontent-lax3-2.xx&oh=00_AT9xONwUbFp0x98_9mZMgcK9D4N8lp62IJGEjuKWWAu7EA&oe=633C221D">
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/MetalMuna.jpg">
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/SARTU_AND_NORMANI_ARE_THE_SAME_PERSON.jpg">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/5IuThMnaayjZACJ1QhVDf0?utm_source=generator&theme=0" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
