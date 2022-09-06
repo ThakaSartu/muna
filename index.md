@@ -7,6 +7,7 @@
 
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
+<IMG src="https://i.discogs.com/hYY9APOi1anJK21D3N7CsLqzfD-KkM1BYWyrPi1HQZc/rs:fit/g:sm/q:90/h:502/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDA5/NjQtMTU0OTA5Mjg4/Mi01MjYxLmpwZWc.jpeg">
 <IMG src="https://res.cloudinary.com/practicaldev/image/fetch/s--JYVzMU6E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p8jyvxodxkows5fgsnp4.png">
 
 ## ምልክት አድርግ 2
