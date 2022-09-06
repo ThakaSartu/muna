@@ -8,8 +8,8 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
-
-<IMG src="https://github.com/ThakaRashard/BUBBLEGUMPOP_HUMA/blob/master/92843532_1576946672466984_586307218232573952_n.jpg">
+<IMG src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_HUMA/master/82261239_1504048889756763_3273341696091357184_n.jpg">
+<IMG src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_HUMA/master/92843532_1576946672466984_586307218232573952_n.jpg">
 <IMG src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_HUMA/master/92487180_1576946545800330_4778577302109814784_n.jpg">
 <IMG src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_HUMA/master/assets/images/KASHDOLL_SHADES.gif">
 
