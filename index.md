@@ -8,6 +8,9 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+<a href="https://www.youtube.com/watch?v=UvJU-raTesU"><IMG src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/121160346_1751666681661648_4553909256525038066_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=730e14&_nc_ohc=kg478wIdg1kAX91q6Q2&_nc_ht=scontent-lax3-2.xx&oh=00_AT8okQX9AvN8jv66121WMOIySdwLgVzOSeffSn0jVr9B0A&oe=633F3150"></a>
+
+[Handling Marital Conflicts (1964)](https://www.youtube.com/watch?v=UvJU-raTesU)
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/121591711_1751739044987745_6212990777287063984_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=6YNSLTe0qv4AX_mUVnN&tn=oTnoBW-n4swdw826&_nc_ht=scontent-lax3-2.xx&oh=00_AT8v_ZJEBBPR-t8bhKGqMxQ2OaSzPYrIdCqK2oZgWM2h_g&oe=633C7588">
 <IMG src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/121552010_1752842918210691_3673179227882256981_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=Hl_6_Zk-rjkAX_35KQO&_nc_ht=scontent-lax3-2.xx&oh=00_AT849Tz5GAl0NL0thAHfC45ierAVLleBkzjhKb8u5jCppA&oe=633E9B7F" alt="If you think im stalking Muna just know she is so vain she would kill you for stopping me from sharing pictures. My wife is narssisistic but not to a flaw she loves helping people and being useful but image distracts her to a flaw at times">
 <IMG src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/121696564_1756818317813151_8045385059079706084_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=jnQqttEkoYcAX9v5n9_&tn=oTnoBW-n4swdw826&_nc_ht=scontent-lax3-2.xx&oh=00_AT9zMdsK4VzkUsOYhOQ3ljDxv9pO9vQpttCj29G5Rqnjkg&oe=633B6100">
