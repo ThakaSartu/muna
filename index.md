@@ -9,13 +9,15 @@
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/image.png">
-
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/THAKA_RASHARD_IN_TSHIRT_LADY_SUGGESTION_FOR_THE_LOVE_BOMRS_SELASSIE_HOWSE_MUNA_AND_RASHARD_DESIGN_ATLIEN.jpg">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/dispersaryDeal4ORiGiNAL_ATLiENGEAR.jpg">
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/architectFutureATL_IN_LA.jpg">
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/me_and_munas_original_design.jpg">
+
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/MetalMuna.jpg">
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/SARTU_AND_NORMANI_ARE_THE_SAME_PERSON.jpg">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/album/5IuThMnaayjZACJ1QhVDf0?utm_source=generator&theme=0" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/THAKA_RASHARD_IN_TSHIRT_LADY_SUGGESTION_FOR_THE_LOVE_BOMRS_SELASSIE_HOWSE_MUNA_AND_RASHARD_DESIGN_ATLIEN.jpg">
+
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/postUpRolLLUPONMENORMANi.jpg">
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/spacefamilyCoralSartuMunaerikaLifeChallenges.jpg">
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/SQUISHYPUSSRAPED_HAILEY_T.jpg">
