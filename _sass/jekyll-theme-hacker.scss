@@ -394,12 +394,13 @@ p {
   color: white;
 /* From https://css.glass */
 background: rgba(255, 255, 255, 0.29);
-border-radius: 16px;
+border-radius: 0px;
 box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
 backdrop-filter: blur(5.2px);
 -webkit-backdrop-filter: blur(5.2px);
 border: 1px solid rgba(255, 255, 255, 1);
-
+margin: auto;
+padding: auto;
   /*
   background: rgb(172, 65, 66);
   background: linear-gradient(90deg, rgba(172, 65, 66, 0.7399334733893557) 0%, rgba(170, 117, 159, 0.8127626050420168) 35%, rgba(0, 212, 255, 0.7091211484593838) 100%);
