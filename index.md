@@ -7,6 +7,8 @@
 
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
+<IMG src="https://res.cloudinary.com/practicaldev/image/fetch/s--JYVzMU6E--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/p8jyvxodxkows5fgsnp4.png">
+
 ## ምልክት አድርግ 2
 <p>
 1 ከጥቂት ቀን በኋላ ወደ ቅፍርናሆም ደግሞ ገብቶ በቤት እንደ ሆነ ተሰማ።
