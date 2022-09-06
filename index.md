@@ -8,7 +8,7 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
-<IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/SARTU_AND_NORMANI_ARE_THE_SAME_PERSON.jpg">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/image.png">
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/MetalMuna.jpg">
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/architectFutureATL_IN_LA.jpg">
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/me_and_munas_original_design.jpg">
