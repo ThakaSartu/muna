@@ -8,6 +8,12 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 [Earthquakes rattle live television](https://www.youtube.com/watch?v=J0nNEycsyXA)
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="dyeYdrw" data-user="thakasartu" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/thakasartu/pen/dyeYdrw">
+  sun svg MUna here is a pin that got my shit for this project, src links... make something legendary after grasping this science</a> by ThakaSartu (<a href="https://codepen.io/thakasartu">@thakasartu</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 [A Beginners Guide to Custom 404 Pages](https://www.lcn.com/blog/beginners-guide-custom-404-pages/)
 [MAKiNG_ART_WiF_SVG::HTMLSHiT](https://www.w3schools.com/html/html5_svg.asp)
 [A Husband Prioritizes His Relatives over His Wife | Iyanla: Fix My Life | Oprah Winfrey Network](https://www.youtube.com/watch?v=DtKUX5JjFXM)
