@@ -7,6 +7,7 @@
 
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
+[Earthquakes rattle live television](https://www.youtube.com/watch?v=J0nNEycsyXA)
 [A Beginners Guide to Custom 404 Pages](https://www.lcn.com/blog/beginners-guide-custom-404-pages/)
 [MAKiNG_ART_WiF_SVG::HTMLSHiT](https://www.w3schools.com/html/html5_svg.asp)
 [A Husband Prioritizes His Relatives over His Wife | Iyanla: Fix My Life | Oprah Winfrey Network](https://www.youtube.com/watch?v=DtKUX5JjFXM)
