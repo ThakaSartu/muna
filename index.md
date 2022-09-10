@@ -7,6 +7,11 @@
 
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
+<hr>
+## Im just feelin yah!
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/254609169&color=%2389ff00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/grand-puba-official" title="Grand Puba" target="_blank" style="color: #cccccc; text-decoration: none;">Grand Puba</a> · <a href="https://soundcloud.com/grand-puba-official/i-like-it-i-wanna-be-where-you" title="I Like It (I Wanna Be Where You Are)" target="_blank" style="color: #cccccc; text-decoration: none;">I Like It (I Wanna Be Where You Are)</a></div>
+<hr>
 [Earthquakes rattle live television](https://www.youtube.com/watch?v=J0nNEycsyXA)
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="dyeYdrw" data-user="thakasartu" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/thakasartu/pen/dyeYdrw">
