@@ -8,6 +8,11 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+## Dear MuwaH, Check out JR work
+Its live!
+<a href="https://www.jr-art.net/videos"><IMG src="https://images.prismic.io/jr-website%2F34ed2940-4fc2-4620-af49-8749bc29c6b2_28-millimetres_-women-are-heroes%2C-bo-city-roof-tops%2C-sierra-leone%2C-2008.jpg?auto=compress,format&w=1246&fit=crop&dpr=2"></a>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/410939446?h=cd6f9cc8b3&color=ff0179&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<hr>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/119797581&color=%2389ff00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/wax-poetics" title="Wax Poetics" target="_blank" style="color: #cccccc; text-decoration: none;">Wax Poetics</a> · <a href="https://soundcloud.com/wax-poetics/a-tribe-called-quest-midnight" title="A Tribe Called Quest Midnight Marauders 20th Anniversary Mixtape" target="_blank" style="color: #cccccc; text-decoration: none;">A Tribe Called Quest Midnight Marauders 20th Anniversary Mixtape</a></div>
 
 [Times Michael Jordan HUMILIATED His Opponents..](https://www.youtube.com/watch?v=w7B2yJsN39c)
