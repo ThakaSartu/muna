@@ -8,6 +8,12 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+<a href="https://www.youtube.com/watch?v=dzqMLkc-YI4"><IMG src="https://cdn.artphotolimited.com/images/5b9fc1ecac06024957be8806/1000x1000/vivien-leigh-et-clark-gable-en-tournage.jpg"></a>
+<a href="https://www.youtube.com/watch?v=nugyG6-Ikso"><IMG src="https://www.cheatsheet.com/wp-content/uploads/2021/04/Hedy-Lamarr.jpg" alt="HEDY_LAMAR_MOON"></a>
+
+[How Actress Hedy Lamarr Became the Inventor Responsible for Your Wi-Fi Connection](https://www.cheatsheet.com/entertainment/hedy-lamarr-became-inventor-responsible-wi-fi-connection.html/)
+<hr>
+
 <div style="padding:67.5% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/11938213?h=4fd886812d&color=c2c2c2&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/56406342?h=9188207402&color=c2c2c2&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
