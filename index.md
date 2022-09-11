@@ -8,6 +8,11 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3B8mZin54c8fIW9mKGtGfy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+## LiVE_anD_LeT_LiVE, wassup with MoMA_LOS_ANGELES?
+<IMG src="https://upload.wikimedia.org/wikipedia/commons/b/be/Venetian_mirror_c_1700_by_Charles_Thurston_Thompson.jpg">
+<IMG src="https://www.moma.org/media/W1siZiIsIjIwNzI1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=b5a053119fbea827" alt="Date_Night???">
 <a href="https://www.youtube.com/watch?v=dzqMLkc-YI4"><IMG src="https://cdn.artphotolimited.com/images/5b9fc1ecac06024957be8806/1000x1000/vivien-leigh-et-clark-gable-en-tournage.jpg"></a>
 <a href="https://www.youtube.com/watch?v=nugyG6-Ikso"><IMG src="https://www.cheatsheet.com/wp-content/uploads/2021/04/Hedy-Lamarr.jpg" alt="HEDY_LAMAR_MOON"></a>
 
