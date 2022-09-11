@@ -8,6 +8,10 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+<div style="padding:67.5% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/11938213?h=4fd886812d&color=c2c2c2&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/56406342?h=9188207402&color=c2c2c2&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 ## Dear MuwaH, Check out JR work
 Its live!
 <a href="https://www.jr-art.net/videos"><IMG src="https://images.prismic.io/jr-website%2F34ed2940-4fc2-4620-af49-8749bc29c6b2_28-millimetres_-women-are-heroes%2C-bo-city-roof-tops%2C-sierra-leone%2C-2008.jpg?auto=compress,format&w=1246&fit=crop&dpr=2"></a>
