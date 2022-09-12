@@ -13,7 +13,7 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 ### Listen2List in reverse, healthy headphones
 ## MDR_7506_or_V6_else_ATH-M50x 
 
-
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2O4bvi3Wy9erjRnnmv73sZ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4msCcOGOgl0WVZqnd5vD0U?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2a8oinyb3lcirTff6XPNWQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2sD3sIHGxpbs5WhWNeGJek?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
