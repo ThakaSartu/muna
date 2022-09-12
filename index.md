@@ -8,6 +8,10 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+<IMG src="https://forum.12ozprophet.com/uploads/monthly_2019_07/42D7FEE1-2510-4479-9344-4DAA16F834F8.thumb.jpeg.13125b1bf430ee00d07367c946a84c1b.jpeg">
+
+
+<hr>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3B8mZin54c8fIW9mKGtGfy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## LiVE_anD_LeT_LiVE, wassup with MoMA_LOS_ANGELES?
