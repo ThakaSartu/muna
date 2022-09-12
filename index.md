@@ -8,6 +8,7 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 ,<hr>
+<img src="https://forum.12ozprophet.com/uploads/monthly_2019_07/6D1E2778-AC17-48ED-A5B4-91E0465E4515.jpeg.5e2ec3783e54a4eae2a5b56b4fc9e7fa.jpeg">
 <img src="https://forum.12ozprophet.com/uploads/monthly_2019_07/6D1A58AE-3FFC-4DB3-BA7B-FFD6C1B348E1.jpeg.37cb0894c4ad3d4bad5da16ead929886.jpeg">
 <IMG src="https://forum.12ozprophet.com/uploads/monthly_2019_07/281F0C89-E5D1-4BF6-AF5C-C332F8CBC900.jpeg.2c300dac061861bf6663c1b517acef4f.jpeg">
 <IMG src="https://forum.12ozprophet.com/uploads/monthly_2019_07/27FBB709-B3DF-46D1-B628-3B4690810F7C.jpeg.e7f7fa3c09b9a5648917c094523a1e29.jpeg">
