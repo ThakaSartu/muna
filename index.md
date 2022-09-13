@@ -1,9 +1,13 @@
- {% highlight ruby %}
+{% highlight ruby %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
 2 # TO####################MUWAH########################
 3 # ANOTHER###############################################
 4 # UNiVERSE############ሙና####################Muna#####
 {% endhighlight %}
+# The Great Wave off Kanagawa
+## 神奈川沖浪裏,Kanagawa-oki Nami Ura, lit. "Under the Wave off Kanagawa
+### WoodblockPrint :: Katsushika Hokusai :: 1831
+<a href="https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa"><IMG src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/1607px-Tsunami_by_hokusai_19th_century.jpg"></a>
 
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
