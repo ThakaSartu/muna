@@ -9,6 +9,9 @@
 ### WoodblockPrint :: Katsushika Hokusai :: 1831
 <a href="https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa"><IMG src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/1607px-Tsunami_by_hokusai_19th_century.jpg"></a>
 
+## If you ask me I'm ready
+<a href="https://youtu.be/x-x-eyZf8Ko"><IMG src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/UNTHINKABLE_MARRY_US_SARTU_LETS_ALL_GET_MARRIED_TOGETHER.jpg"></a>
+
 ## FREEDOM_RESEARCH
 ## ሳቲዚ ጀብዱዚ ሙና ዐሪካ ላራ ከሊላ
 [Marriage Practices Among The Gidda Oromo,Northern Wollega, Ethiopia](http://www.njas.helsinki.fi/pdf-files/vol15num3/beyene.pdf)	by [Gemechu Beyene](https://www.researchgate.net/scientific-contributions/Gemechu-Beyene-36094326) & [Assefa Tolera](https://www.semanticscholar.org/author/Assefa-Tolera/114598861)
