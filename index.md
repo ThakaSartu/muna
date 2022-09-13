@@ -9,6 +9,15 @@
 ### WoodblockPrint :: Katsushika Hokusai :: 1831
 <a href="https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa"><IMG src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/1607px-Tsunami_by_hokusai_19th_century.jpg"></a>
 
+## FREEDOM_RESEARCH
+## ሳቲዚ ጀብዱዚ ሙና ዐሪካ ላራ ከሊላ
+[Marriage Practices Among The Gidda Oromo,Northern Wollega, Ethiopia](http://www.njas.helsinki.fi/pdf-files/vol15num3/beyene.pdf)	by [Gemechu Beyene](https://www.researchgate.net/scientific-contributions/Gemechu-Beyene-36094326) & [Assefa Tolera](https://www.semanticscholar.org/author/Assefa-Tolera/114598861)
+<img src="https://www.rct.uk/sites/default/files/styles/rctr-scale-1300-500/public/collection-online/e/5/1032675-1622115262.jpg?itok=gaFb1-Qp">
+
+### Three Types of Oromo Marriage
+Marriage is one of the most important rituals in Oromo culture. The custom of marriage differs in various parts of the world and every civilization produces a marriage pattern appropriate to itself (Ludlow, 1965, cited in Gemechu & Assefa., 2006). Among the Oromo society also the type, name and ceremonies differ to some degree from place to place. Generally, there are three types of marriage among the Oormo.
+
+
 ## Good Morning Dear,
 Im reading this amazing book by Tracy Osborne, whom I suspect my Mom might know through yall VOUGE_WORLD. 
 [HELLO_WEB_DESiGN](https://www.oreilly.com/library/view/hello-web-design/9781098128951/) is TEAL i found it at Downtown_Santa_Monica, check it out when I return it short read focused on design principles and not coding, these books are important. I also got a CSS:Float pamplet by Eric Meyer, that library is a dope art resource. The books at central are not making it back to the shelves and the security system is hella inconsistant... I doesnt stop gaurds from stalking and distracting me when I cant breath after a long skate... LAtely they wait till about 15min b4 my session ends and come to check on me. Why they still harassing about masks? Santa Monica even with the porno kings slidin around in disqugise and and longBeachLongFace officer who I have no dirt on maskless.... Whats up with central what they Hidin? I saw willow the otherday, she wuld be a great partner while you guys are stuck you know she in the rotation, and a rooster need a hen by his side at all times
