@@ -13,6 +13,8 @@
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
 
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/thaka/master/assets/images/oracle_003_4391_01a_tape_lto_ultrium_4_800gb_1600gb_1115807.jpg">
+<hr>
 ## DEAR_MUN*i||a
 ### Listen2List in reverse, healthy headphones
 ## MDR_7506_or_V6_else_ATH-M50x 
