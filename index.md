@@ -8,6 +8,10 @@
 ## 神奈川沖浪裏,Kanagawa-oki Nami Ura, lit. "Under the Wave off Kanagawa
 ### WoodblockPrint :: Katsushika Hokusai :: 1831
 <a href="https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa"><IMG src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/1607px-Tsunami_by_hokusai_19th_century.jpg"></a>
+
+## Dear_Muna
+I can swear im sitting next to Sartu... You know ppl face change when they havin sex wit ppl
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/qwDH3BpaCQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="300" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&light=1&feed=%2Fkmonk%2Ffunky-shift-4-it-came-from-the-sea-solid-steel-mix-by-bonobo%2F" frameborder="0" ></iframe>
 
 ## If you ask me I'm ready
