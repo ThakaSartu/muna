@@ -13,6 +13,8 @@
 Painting by Frank Franzetta
 <IMG src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/01/da4aaf_c497afa67d2b41269acee5368fcc0133mv2.jpg?resize=1024%2C712&ssl=1">
 
+[The Daily Heller: Frank Frazetta, the Sci-Fi Rockwell](https://www.printmag.com/daily-heller/the-daily-heller-frank-frazetta-the-sci-fi-rockwell/)
+
 ## Dear_Muna
 I can swear im sitting next to Sartu... You know ppl face change when they havin sex wit ppl
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/qwDH3BpaCQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
