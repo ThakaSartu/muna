@@ -9,6 +9,12 @@
 ### WoodblockPrint :: Katsushika Hokusai :: 1831
 <a href="https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa"><IMG src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/1607px-Tsunami_by_hokusai_19th_century.jpg"></a>
 
+## CHECK_OUT_FiRE_AND_iCE
+<IMG src="https://i.pinimg.com/originals/0c/50/f6/0c50f6a8da2450a38c724c8311714393.jpg" alt="##HOLLYWOOD_IS_CLEAR_OF_PROSTITUTION_FOR_THE_HOUUR##LETS_JUST_SEE_WHAT_HAPPENS_NEXT, this guy sitting inbetween me and Sartu is making me physically tired">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/%23%23FRANK_FRANZETTAEqyptian-queen_Fotor%20(1).jpg">
+<hr>
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/FRANK_FRANZETTA_501.jpg">
+
 ## Getting A Date
 Painting by Frank Franzetta
 <IMG src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/01/da4aaf_c497afa67d2b41269acee5368fcc0133mv2.jpg?resize=1024%2C712&ssl=1">
