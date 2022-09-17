@@ -8,7 +8,16 @@
 ## 神奈川沖浪裏,Kanagawa-oki Nami Ura, lit. "Under the Wave off Kanagawa
 ### WoodblockPrint :: Katsushika Hokusai :: 1831
 <a href="https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa"><IMG src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/1607px-Tsunami_by_hokusai_19th_century.jpg"></a>
+<hr>
 
+## Dear_Ishmel##_our_Daughters_are_safer_than_ever
+<iframe width="100%" height="502" src="https://www.youtube.com/embed/O8EZqSEpA-I" title="ቤት ለእንግዳ - Ethiopian new amharic full movie Bet lengeda 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/ZQ4lpkVlNZI" title=""ከለከልሽኝ" ምርጥ አስቂኝ የገጠር ድራማ (Kelekelshign) New Ethiopian Comady  2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/RD7uznXqsjA" title="Fiilmii Afaan Oromoo haaraa Milkii 2022 [Milki New Afaan Oromo Film/Ethiopian Oromo Movie 2022]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+<iframe width="100%" height="502" src="https://www.youtube.com/embed/bqauLNFVjGE?list=PLFAdtlxMl1uN6jgziRQqzgjbn_Tk5Tuya" title="Fred And Friends Drink After Junior Cooper's Funeral | Sanford and Son" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="502" src="https://www.youtube.com/embed/AlhNBFB4vZc?list=PLFAdtlxMl1uN6jgziRQqzgjbn_Tk5Tuya" title="Lamont Becomes A Coffins Seller | Sanford and Son" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/7d1PFYNqGNI" title="Dragon Ball Z Toonami TV Tape (2001)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
