@@ -4,7 +4,11 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE############ሙና####################Muna#####
 {% endhighlight %}
-<img src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/design_resources/CC.ThorowgoodOpen.10LineSansSurrphys.Birmingham-1400-xxx_q87.jpg">
+
+
+##  thorowgood_grotesque
+Of all the forms most suited to being condensed, the sans is the easiest and most obvious. In the early part of the 1830s, all of the British foundries introduced the form. Thorowgood made one size with a delightfully expressive lowercase in 1834. Expanded from the original with additional weights and a matching italic, it is both impactful with a slightly unexpected, appealing character. 
+<img src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/design_resources/CC.ThorowgoodOpen.10LineSansSurrphys.Birmingham-1400-xxx_q87.jpg" alt="Thorowgood Grotesque Collection">
 
 # The Great Wave off Kanagawa
 ## 神奈川沖浪裏,Kanagawa-oki Nami Ura, lit. "Under the Wave off Kanagawa
