@@ -4,6 +4,8 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE############ሙና####################Muna#####
 {% endhighlight %}
+<img src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/design_resources/CC.ThorowgoodOpen.10LineSansSurrphys.Birmingham-1400-xxx_q87.jpg">
+
 # The Great Wave off Kanagawa
 ## 神奈川沖浪裏,Kanagawa-oki Nami Ura, lit. "Under the Wave off Kanagawa
 ### WoodblockPrint :: Katsushika Hokusai :: 1831
