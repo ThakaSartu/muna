@@ -11,6 +11,8 @@
 <hr>
 <IMG src="https://pics.me.me/thumb_shit-im-a-man-with-pride-you-dont-do-shit-44729195.png">
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5Tl0HJvynZtKdSUMKbFVVX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ## PLAYLiST_SATURDAY_NiGHT
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4UPyqSVCf0ukiBbi0MvLDW?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3YIePf4zgX3G8L33mgRnKr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
