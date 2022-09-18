@@ -9,6 +9,7 @@
 ### WoodblockPrint :: Katsushika Hokusai :: 1831
 <a href="https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa"><IMG src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/1607px-Tsunami_by_hokusai_19th_century.jpg"></a>
 <hr>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6iFV28FVLNTCjMBGj7YKLl?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <IMG src="https://pics.me.me/thumb_shit-im-a-man-with-pride-you-dont-do-shit-44729195.png">
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5Tl0HJvynZtKdSUMKbFVVX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
