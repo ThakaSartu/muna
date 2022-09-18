@@ -4,13 +4,26 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE############ሙና####################Muna#####
 {% endhighlight %}
+<hr>
+  <video width="100%" height="350px" controls preload="none" poster='https://www.hotnewhiphop.com/image/740x416/cover/1613944317_f6ed84318a4e0b17c5da0a2999496be2.jpg/b19dee9cd5791475ced166996ba92bd1/1613944317_9c1f11b25b3c6de32f75ae280feac08c.jpg' data-setup='{ "playbackRates": [1, 1.5, 2] }'>
+  <source src="https://download.calibre-ebook.com/videos/grand-tour.mp4" type='video/mp4' />
 
+  </video>
+<h2 >
+LightSkinKeisha ::  FDH ##DEMO_Vid
+
+</h2>
+Dear Muna, I cant post videos. Since you are kidnapped I wonder what rights do you have that they are protecting? 
+  <video width="100%" height="350px" controls preload="none" poster='https://www.hotnewhiphop.com/image/740x416/cover/1613944317_f6ed84318a4e0b17c5da0a2999496be2.jpg/b19dee9cd5791475ced166996ba92bd1/1613944317_9c1f11b25b3c6de32f75ae280feac08c.jpg' data-setup='{ "playbackRates": [1, 1.5, 2] }'>
+  <source src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/FDH_LSK.mp4" type='video/mp4' />
+
+  </video>
 <hr>
 <img src="https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/plt/dataimagejpegbase649j4AAQSkZJRgABAQAAAQABAADgA8Q1J-0ffa5a4b58d949aa31e33e0622ced2b1.jpg">
 <hr>
 
-<video id="grandtour" title="Grand tour of calibre" controls preload="metadata">
-    <source type="video/mp4"   src="https://download.calibre-ebook.com/videos/grand-tour.mp4" />
+<video title="Grand tour of calibre" controls preload="metadata">
+    <source  src="https://download.calibre-ebook.com/videos/grand-tour.mp4" type="video/mp4"  >
 
 </video>
 
@@ -23,8 +36,15 @@ I know Coral writes graffiti. But she worked with me a long time and knows how t
 
 <hr>
 
+## Read On Calibre - Download below
+
 [Download_STEVEN_POWETS_THE_Art_of_Getting_Over_HERe_and_USE_CALiBRE_TO_READ_iT](https://vdoc.pub/documents/the-art-of-getting-over-50kg6hib9uo0)
+
 <hr>
+  <video width="100%" height="350px" controls preload="none" poster='https://manual.calibre-ebook.com/_images/edit-book.png' data-setup='{ "playbackRates": [1, 1.5, 2] }'>
+  <source src="https://download.calibre-ebook.com/videos/grand-tour.mp4" type='video/mp4' />
+
+  </video>
 <a href="https://calibre-ebook.com/demo#tutorials"><img src="https://download.calibre-ebook.com/images/4/dark-editor.png"></a>
 <a href="https://calibre-ebook.com/about"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Calibre_logo_3.png"></a>
 <a href="https://calibre-ebook.com/whats-new"><img src="https://blog.the-ebook-reader.com/wp-content/uploads/2019/10/Calibre-eBook.jpg"></a>
