@@ -11,7 +11,7 @@ I know Coral writes graffiti. But she worked with me a long time and knows how t
 <iframe src="https://archive.org/embed/artofgettingover0000powe" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 [Download_STEVEN_POWETS_THE_Art_of_Getting_Over_HERe_and_USE_CALiBRE_TO_READ_iT](https://vdoc.pub/documents/the-art-of-getting-over-50kg6hib9uo0)
-<video class="calibre" id="grandtour" style="display: none" title="Grand tour of calibre" controls preload="metadata">
+<video id="grandtour" title="Grand tour of calibre" controls preload="metadata">
     <source type="video/mp4"   src="https://download.calibre-ebook.com/videos/grand-tour.mp4" />
     <source type="video/webm"  src="https://download.calibre-ebook.com/videos/grand-tour.webm" />
     <source type="video/flash" src="https://download.calibre-ebook.com/videos/grand-tour.flv" />
