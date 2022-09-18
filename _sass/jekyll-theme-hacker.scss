@@ -1044,3 +1044,10 @@ background: radial-gradient(circle, rgba(255,224,0,0.3379726890756303) 35%, rgba
 
   flex: var(--magnifier);
 }
+
+#grandtour { 
+  text-align:center;
+  display:none;
+  cursor: pointer;
+  z-index: 3;
+}
