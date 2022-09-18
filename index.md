@@ -4,8 +4,15 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE############ሙና####################Muna#####
 {% endhighlight %}
-
-
+<hr>
+## Tracy168_Blackbook
+found online... I lost all of ,mine 
+<img src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/design_resources/8235c479-8368-42dd-b5a9-7ad4675a6dbd.jpg">
+<hr>
+<img src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/design_resources/94_114_271_006.jpg">
+<hr>
+<img src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/design_resources/010-018-black-book-sketch-tracy-168-1987-mcny.jpg">
+<hr>
 ##  thorowgood_grotesque
 Of all the forms most suited to being condensed, the sans is the easiest and most obvious. In the early part of the 1830s, all of the British foundries introduced the form. Thorowgood made one size with a delightfully expressive lowercase in 1834. Expanded from the original with additional weights and a matching italic, it is both impactful with a slightly unexpected, appealing character. 
 <img src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/design_resources/CC.ThorowgoodOpen.10LineSansSurrphys.Birmingham-1400-xxx_q87.jpg" alt="Thorowgood Grotesque Collection">
