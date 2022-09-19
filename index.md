@@ -5,6 +5,11 @@
 4 # UNiVERSE############ሙና####################Muna#####
 {% endhighlight %}
 <hr>
+# The Great Wave off Kanagawa
+## 神奈川沖浪裏,Kanagawa-oki Nami Ura, lit. "Under the Wave off Kanagawa
+### WoodblockPrint :: Katsushika Hokusai :: 1831
+<a href="https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa"><IMG src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/1607px-Tsunami_by_hokusai_19th_century.jpg"></a>
+<hr>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6WlxcZKpEV6Bwe9InoVhMp?utm_source=generator" width="100%" height="352" frameBorder="0"  title="OJ Da Juiceman - Frank Sinatra" allowfullscreen="" alt="FuTURE_WiFi_LiT ~> OJ Da Juiceman - Frank Sinatra" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <hr>
 <a href="https://play.google.com/store/apps/details?id=com.datpiff.mobile&hl=en_US&gl=US"><IMG src="https://play-lh.googleusercontent.com/Xw8wkR_ei2UBxPVYu-XHf7Snawrat2_lE93ocz8qBUmUpyh8tr155Q-X0eU8GCAdq3Y"></a>
@@ -50,7 +55,7 @@ Dear Muna, I cant post videos. Since you are kidnapped I wonder what rights do y
 
 </video>
 
-
+<hr>
 
 ## Dear_Muna, please forward to Erika, Kali, and Laura
 I know Coral writes graffiti. But she worked with me a long time and knows how to pick non offensive places to paint. If she is offending anyone its healthiest to get in front of it b4 the other kids follow suit. Jabdu been looking at you and Im super scared. I told him to slow down while he was tagging one day, and he caught mad attitude. I did not even know who he was. Thats still Naser_Nephew and there issues that come with that... ##Rebellion_against_older_ones ##READ_THIS_BOOK_AND_GUIDE_OUR_CHILD... unless issa billy jean situation... grep -i Jimmy[f*N,k*l] and echo swiss should know that I deserve a response maaan I heard J.Cole was paarenting on the sly... Maaaan you went to tha circus own ah nigguh 
@@ -82,10 +87,11 @@ found online... I lost all of ,mine
 <hr>
 <img src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/design_resources/010-018-black-book-sketch-tracy-168-1987-mcny.jpg">
 <hr>
-##  thorowgood_grotesque
+
+##  Thorowgood_grotesque
 Of all the forms most suited to being condensed, the sans is the easiest and most obvious. In the early part of the 1830s, all of the British foundries introduced the form. Thorowgood made one size with a delightfully expressive lowercase in 1834. Expanded from the original with additional weights and a matching italic, it is both impactful with a slightly unexpected, appealing character. 
 <img src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/design_resources/CC.ThorowgoodOpen.10LineSansSurrphys.Birmingham-1400-xxx_q87.jpg" alt="Thorowgood Grotesque Collection">
-
+<hr>
 # The Great Wave off Kanagawa
 ## 神奈川沖浪裏,Kanagawa-oki Nami Ura, lit. "Under the Wave off Kanagawa
 ### WoodblockPrint :: Katsushika Hokusai :: 1831
