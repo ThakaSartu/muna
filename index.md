@@ -5,6 +5,11 @@
 4 # UNiVERSE############ሙና####################Muna#####
 {% endhighlight %}
 <hr>
+
+<IMG src="https://i.ytimg.com/vi/rrwMLxmULIM/hqdefault.jpg" alt="OJ_DA_JUICEMAN_I_GOT_THE_JUICE##HEALTHY_JUICE_FOR_YOU_ANYNND_MUWAH##">
+<iframe src="https://gcp-embeds.datpiff.com/mixtape/26747/" width="100%" height="270" frameborder="0"></iframe>
+
+<hr>
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/lqgQMvDw-K8" title="Waka TM: New Eritrean comedy 2022 (Gual Hadera) #Semhar Mesfn ጓል ሓደራ #ሰምሃር መስፍን" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
