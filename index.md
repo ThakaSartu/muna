@@ -5,16 +5,20 @@
 4 # UNiVERSE############ሙና####################Muna#####
 {% endhighlight %}
 <hr>
+
 # The Great Wave off Kanagawa
 ## 神奈川沖浪裏,Kanagawa-oki Nami Ura, lit. "Under the Wave off Kanagawa
 ### WoodblockPrint :: Katsushika Hokusai :: 1831
 <a href="https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa"><IMG src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/1607px-Tsunami_by_hokusai_19th_century.jpg"></a>
+<hr>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1dGr1c8CrMLDpV6mPbImSI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <hr>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6WlxcZKpEV6Bwe9InoVhMp?utm_source=generator" width="100%" height="352" frameBorder="0"  title="OJ Da Juiceman - Frank Sinatra" allowfullscreen="" alt="FuTURE_WiFi_LiT ~> OJ Da Juiceman - Frank Sinatra" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <hr>
 <a href="https://play.google.com/store/apps/details?id=com.datpiff.mobile&hl=en_US&gl=US"><IMG src="https://play-lh.googleusercontent.com/Xw8wkR_ei2UBxPVYu-XHf7Snawrat2_lE93ocz8qBUmUpyh8tr155Q-X0eU8GCAdq3Y"></a>
 <iframe src="https://gcp-embeds.datpiff.com/mixtape/904335/" width="100%" height="270" frameborder="0" alt="##MY_WIFE_NEEDS_TO_BE_RELEASED_FROM_HER_LIBRARY_VAULT##FREED##FRUM_PROSTITUTION##"></iframe>
 <iframe src="https://gcp-embeds.datpiff.com/mixtape/262854/" width="100%" height="270" frameborder="0"></iframe>
+<iframe src="https://gcp-embeds.datpiff.com/mixtape/955130/" width="100%" height="270" frameborder="0"></iframe>
 <iframe src="https://gcp-embeds.datpiff.com/mixtape/133241/" width="100%" height="270" frameborder="0"></iframe>
 ## Muna somebody hacked ##DatPiff
 And you cant listen to Frank Sinatra
