@@ -45,7 +45,7 @@ Dear Muna, I cant post videos. Since you are kidnapped I wonder what rights do y
 <img src="https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/plt/dataimagejpegbase649j4AAQSkZJRgABAQAAAQABAADgA8Q1J-0ffa5a4b58d949aa31e33e0622ced2b1.jpg">
 <hr>
 
-<video title="Grand tour of calibre" controls preload="metadata">
+<video title="Grand tour of calibre" width="100%" height="350px"  controls preload="metadata">
     <source  src="https://download.calibre-ebook.com/videos/grand-tour.mp4" type="video/mp4"  >
 
 </video>
