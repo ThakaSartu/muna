@@ -11,6 +11,10 @@
 ### WoodblockPrint :: Katsushika Hokusai :: 1831
 <a href="https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa"><IMG src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/1607px-Tsunami_by_hokusai_19th_century.jpg"></a>
 <hr>
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/stitch_to_my_MUNA.png">
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/o_nXmFlGMwE" title="Kash Doll - Single & Happy ft. Wale, Eric Bellinger" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/stitch_to_my_MUNA.png">
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6n9G36q0JwCS12oQRXCeMi?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <hr>
 
@@ -18,9 +22,11 @@
 Expressionistic crime dramas of the 40s and 50s: tough cops and private eyes, femme fatales, mean city streets and deserted backroads, bags of loot and dirty double-crossers...[WatchMore](https://archive.org/details/Film_Noir)
 
 <img src="https://www.slantmagazine.com/wp-content/uploads/2019/03/lists_100greatestnoirfilms.jpg">
+
 ## Dear Muna
 Please look at our old blog, your room mates may not have let you see it, and you know they filter post anyway... [This is one of my favorite designes the fonts look amazing on windows10 chrome:OG_BUBBLEGUMPOP](https://thakasartu.github.io/bubblegumpop/)
 <hr>
+
 [M&K_SOUND_SUBWOOFER_PEE_DEE_EFF](https://mksound.com/wp-content/uploads/2022/05/HCC_331_MK_subwoofer_Reprint-LOW.pdf)
 
 [THE_BEGINNING_OF_THE_CHOICE_OF_PROFESSIONALS](https://mksound.com/videos/the-beginning-of-the-choice-of-professionals/)
