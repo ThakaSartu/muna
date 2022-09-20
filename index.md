@@ -12,6 +12,9 @@
 <a href="https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa"><IMG src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/1607px-Tsunami_by_hokusai_19th_century.jpg"></a>
 <hr>
 
+## Dear Muna
+Please look at our old blog, your room mates may not have let you see it, and you know they filter post anyway... [This is one of my favorite designes the fonts look amazing on windows10 chrome:OG_BUBBLEGUMPOP](https://thakasartu.github.io/bubblegumpop/)
+<hr>
 [M&K_SOUND_SUBWOOFER_PEE_DEE_EFF](https://mksound.com/wp-content/uploads/2022/05/HCC_331_MK_subwoofer_Reprint-LOW.pdf)
 
 [THE_BEGINNING_OF_THE_CHOICE_OF_PROFESSIONALS](https://mksound.com/videos/the-beginning-of-the-choice-of-professionals/)
