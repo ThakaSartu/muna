@@ -11,6 +11,23 @@
 ### WoodblockPrint :: Katsushika Hokusai :: 1831
 <a href="https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa"><IMG src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/1607px-Tsunami_by_hokusai_19th_century.jpg"></a>
 <hr>
+<IMG src="https://upload.wikimedia.org/wikipedia/commons/7/72/Nanking_bodies_1937.jpg">
+
+# The Rape of Nanjing
+
+The Nanjing Massacre or the Rape of Nanjing (formerly romanized as Nanking[note 2]) was the mass murder of Chinese civilians in Nanjing, the capital of the Republic of China, immediately after the Battle of Nanking in the Second Sino-Japanese War, by the Imperial Japanese Army.[2][3][4][5] Beginning on December 13, 1937, the massacre lasted six weeks. The perpetrators also committed other war crimes such as mass rape, looting, and arson.[note 1] The massacre was one of the worst atrocities committed during World War II.[6]
+
+Due to a myriad of factors, death toll estimates vary from 40,000 to over 300,000, with rape cases ranging from 20,000 to over 80,000 cases. However, most credible scholars in Japan, which include a large number of authoritative academics, support the validity of the International Military Tribunal for the Far East and its findings, which estimate at least 200,000 murders and at least 20,000 cases of rape...[ReadMore](https://en.wikipedia.org/wiki/Nanjing_Massacre)
+<hr>
+
+### From The History_Channel
+
+In what became known as the “Rape of Nanking,” the Japanese butchered an estimated 150,000 male “war prisoners,” massacred an additional 50,000 male civilians, ...[ReadMore](https://www.history.com/this-day-in-history/the-rape-of-nanking)
+
+<hr>
+<IMG src="https://teambrit.co.uk/app/uploads/2022/03/Team-BRIT-BMW-Fire-scaled.jpeg" alt="##MANY_RACECAR_DRIVERS_AND_FANS_LOST_THEIR_FAMILIES_TO_THE_ZUCK_SUPPORTED_PROSTITUTION_OF_AMERICA">
+[TEAM BRIT DRIVER PRAISED FOR QUICK ACTIONS IN FREAK CAR FIRE](https://teambrit.co.uk/news/team-brit-driver-praised-for-quick-actions-in-freak-car-fire/)
+<hr>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/252194269&color=%237c4904&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 25px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; "><a href="https://soundcloud.com/baauer" title="Baauer" target="_blank" style="color: #cccccc; text-decoration: none;">Baauer</a> · <a href="https://soundcloud.com/baauer/temple" title="Temple ft M.I.A &amp; G-Dragon" target="_blank" style="color: #cccccc; text-decoration: none;">Temple ft M.I.A &amp; G-Dragon</a></div>
 <a href="https://youtu.be/30mAsh0Ss7U"><IMG src="https://images.cdn.circlesix.co/image/1/700/0/uploads/posts/2017/10/6852c619a14ca9ab4724291d8d00759e.jpg"></a>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/133308104&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; "><a href="https://soundcloud.com/atlhotspot" title="Atlanta Hot Spot🔥" target="_blank" style="color: #cccccc; text-decoration: none;">Atlanta Hot Spot🔥</a> · <a href="https://soundcloud.com/atlhotspot/young-thug-curtains-ft-shawty" title="Young Thug Curtains Ft. Shawty Lo &amp; Skool Boy" target="_blank" style="color: #cccccc; text-decoration: none;">Young Thug Curtains Ft. Shawty Lo &amp; Skool Boy</a></div>
